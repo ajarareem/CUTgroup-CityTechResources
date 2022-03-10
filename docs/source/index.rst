@@ -20,7 +20,7 @@ These materials are meant to be resources for use in developing Civic User Testi
 Files
 --------
 
-**Overview Deck:** This deck provides a high level overview of CUTgroup services, process, and, activities, as well as a few case studies in the appendix. This deck was often used in introductory conversations about CUTgroup.
+`Overview Deck: <https://github.com/ajarareem/CUTgroup-CityTechResources/blob/bf76eeba55f7b53cffe0136b483af9598c133e16/docs/Files/01_CUTgroupOverview_CityTech.pptx>`_ This deck provides a high level overview of CUTgroup services, process, and, activities, as well as a few case studies in the appendix. This deck was often used in introductory conversations about CUTgroup.
 
 **Pricing Workbook:** This workbook allows for quick pricing calculations for CUTgroup work. One tab enables user to quickly estimate based on test size and staff rates, while the other tab provides a more customizable option.
 
