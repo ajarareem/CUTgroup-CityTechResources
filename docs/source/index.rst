@@ -12,7 +12,7 @@ Chicago's CUTgroup was most recently led by `City Tech Collaborative <https://ww
 
 Purpose
 --------
-This site serves to document CUTgroup materials and resources developed by `City Tech Collaborative <citytech.org>`_. They represent one approach to Civic User Testing, bbased in the `CUTgroup Book <https://www.cutgroupbook.com/>`_ by Daniel X. O’Neil and the Smart Chicago Collaborative and adjusted to fit City Tech's evolving work in this space. Along with browsing the materials we are sharing, we encourage you to explore the original `CUTgroup Book <https://www.cutgroupbook.com/>`_, as well as discover the `great work that other organizations are doing within this space <https://www.citytech.org/civic-user-testing-network>`_.
+This site serves to document CUTgroup materials and resources developed by `City Tech Collaborative <citytech.org>`_. They represent one approach to Civic User Testing, based in the `CUTgroup Book <https://www.cutgroupbook.com/>`_ by Daniel X. O’Neil and the Smart Chicago Collaborative and adjusted to fit City Tech's evolving work in this space. Along with browsing the materials we are sharing, we encourage you to explore the original `CUTgroup Book <https://www.cutgroupbook.com/>`_, as well as discover the `great work that other organizations are doing within this space <https://www.citytech.org/civic-user-testing-network>`_.
 
 
 Usage
