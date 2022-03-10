@@ -1,4 +1,4 @@
-City Tech Collaborative's Civic User Testing Resources
+City Tech Collaborative | Civic User Testing Resources
 =======================================
 *Last Updated March 2022*
 
