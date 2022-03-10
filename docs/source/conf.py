@@ -2,8 +2,7 @@
 
 # -- Project information
 
-project = 'City Tech CUTgroup Resources'
-author = 'City Tech Collaborative'
+project = 'City Tech Collaborative CUTgroup Resources'
 
 release = '0.1'
 version = '0.1.0'
