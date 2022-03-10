@@ -1,4 +1,4 @@
-CUTgroup Resourcs
+CUTgroup Resources
 =======================================
 *City Tech Collaborative's Civic User Testing group Resources*
 
