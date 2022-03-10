@@ -3,8 +3,7 @@
 # -- Project information
 
 project = 'City Tech CUTgroup Resources'
-copyright = '2021, Graziella'
-author = 'Graziella'
+author = 'City Tech Collaborative'
 
 release = '0.1'
 version = '0.1.0'
