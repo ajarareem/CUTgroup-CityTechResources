@@ -9,6 +9,9 @@ The Civic User Testing group, also known as CUTgroup, originated in Chicago to e
 
 Chicago's CUTgroup was most recently led by City Tech Collaborative, following a merger between City Digital and the Smart Chicago Collaborative in 2017. At the end of 2021, `City Tech launched two new, independent organizations <https://www.citytech.org/city-tech-launches-two-new-organizations-and-open-source-toolkit>`_ focused on `civic infrastructure innovation <https://www.infrastructureforward.org/>`_ and `community health and wellness <https://www.sustainwellinnovation.org/>`_ and closed it doors. With this update, City Tech wanted to share its CUTgroup resources for others to utilize for their own Civic User Testing programs. 
 
+
+Purpose
+--------
 This site serves to document CUTgroup materials and resources developed by City Tech Collaborative. They represent one approach to Civic User Testing, influenced by the `CUTgroup Book <https://www.cutgroupbook.com/>`_ by Daniel X. O’Neil and the Smart Chicago Collaborative and adjusted to fit City Tech's work in this space. Along with the materials we are sharing, we encourage you to explore the original `CUTgroup Book <https://www.cutgroupbook.com/>`_, as well as discover the great work that other organizations are doing within this space.
 
 
