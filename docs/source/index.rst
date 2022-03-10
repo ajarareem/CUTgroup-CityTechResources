@@ -1,13 +1,13 @@
-CUTgroup Resources
+City Tech Collaborative's Civic User Testing Resources
 =======================================
-*City Tech Collaborative's Civic User Testing group Resources*
+*Last Updated March 2022*
 
 
 Background
 --------
 The Civic User Testing group, also known as CUTgroup, originated in Chicago to enable residents to give valuable input throughout the technology discovery and development process, allowing them to have a voice in emerging technology. CUTgroup’s model combines User Experience (UX) testing, civic engagement, and digital skills training to provide a unique perspective for technological solutions. Over its lifetime, Chicago’s CUTgroup has provided input in over 30 different local user design exercises for civic and government-related products.
 
-Chicago's CUTgroup was most recently led by `City Tech Collaborative <https://www.citytech.org/>`_, following a merger between City Digital and the Smart Chicago Collaborative in 2017. At the end of 2021, `City Tech launched two new, independent organizations <https://www.citytech.org/city-tech-launches-two-new-organizations-and-open-source-toolkit>`_ focused on `civic infrastructure innovation <https://www.infrastructureforward.org/>`_ and `community health and wellness <https://www.sustainwellinnovation.org/>`_ and closed it doors. With this update, City Tech wanted to share its CUTgroup resources for others to utilize for their own Civic User Testing programs. 
+Chicago's CUTgroup was most recently led by `City Tech Collaborative <https://www.citytech.org/>`_, following a merger between City Digital and the Smart Chicago Collaborative in 2017. At the end of 2021, `City Tech launched two new, independent organizations <https://www.citytech.org/city-tech-launches-two-new-organizations-and-open-source-toolkit>`_ focused on `civic infrastructure innovation <https://www.infrastructureforward.org/>`_ and `community health and wellness <https://www.sustainwellinnovation.org/>`_ and closed it doors. With this update, City Tech wanted to document and share its CUTgroup toolkit for others to utilize in their own Civic User Testing programs. 
 
 
 Purpose
@@ -20,11 +20,11 @@ Usage
 These materials are meant to be resources for use in developing Civic User Testing programming. They are based on City Tech Collaborative’s work and will not be updated once City Tech is closed. 
 
 
-Files
+File Descriptions and Links
 --------
 *Please note that clicking on the links below will result in the file automatically downloading. Alternatively, all files can be found on GitHub* `here. <https://github.com/ajarareem/CUTgroup-CityTechResources/tree/main/docs/Files>`_
 
-**Overview Deck** `(LINK) <https://github.com/ajarareem/CUTgroup-CityTechResources/raw/bf76eeba55f7b53cffe0136b483af9598c133e16/docs/Files/01_CUTgroupOverview_CityTech.pptx>`_ **:**  This deck provides a high level overview of CUTgroup services, process, and, activities, as well as a few case studies in the appendix. This deck was often used in introductory conversations about CUTgroup.  
+**Overview Deck** `(LINK) <https://github.com/ajarareem/CUTgroup-CityTechResources/raw/bf76eeba55f7b53cffe0136b483af9598c133e16/docs/Files/01_CUTgroupOverview_CityTech.pptx>`_ **:**  This deck provides a high level overview of City Tech's CUTgroup services, process, and activities, as well as a few case studies. This deck was often used in introductory conversations about CUTgroup.  
 
 **Pricing Workbook** `(LINK) <https://github.com/ajarareem/CUTgroup-CityTechResources/raw/main/docs/Files/02_CUTgroupPricingWorkbook_CityTech_EXAMPLE.xlsx>`_ **:**  This workbook allows for quick pricing calculations for CUTgroup work. One tab enables user to quickly estimate based on test size and staff rates, while the other tab provides a more customizable option. 
 
